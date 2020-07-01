@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "email_address": "francesco@gmail.com",
+      "access": "admin",
+      "state": "active"
+    },
+    {
+      "email_address": "jennie@gmail.com",
+      "access": "read",
+      "state": "invited"
+    },
+    {
+      "email_address": "julian@gmail.com",
+      "access": "write",
+      "state": "inactive"
+    }
+  ]
+}
